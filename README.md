@@ -1,0 +1,2 @@
+# WXRtoDrupal
+WordpressのXMLの一部を取り出してDrupal7にインポートできそうな形式に置き換えるスクリプト。
